@@ -27,7 +27,7 @@
 ### Open communication
 - Open inboxes
 - Try to use open channels and avoid DMs
-#### No support tiers
+- No support tiers
 ### Cross functional support team
 - Product / Project managers on support rotation
 - Support / Ops
