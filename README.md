@@ -1,4 +1,4 @@
-# Value driven support 
+# Values:
 
 ## Communicate with transparency and integrity
 ### No silos
