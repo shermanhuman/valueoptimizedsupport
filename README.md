@@ -39,6 +39,7 @@
 
 ## Bring value
 ### To the end user
+- Support scaling built into the business plan
 - Competence
 - Responsiveness
 ### To the product
