@@ -9,7 +9,7 @@ Support has a reputation for being soul crushing work.  Agents are micromanaged 
 
 It's time to consider if cost optimized support is the approach for your organization.  In a crowded market exceptional service can be a differentiator.  Consider Nordstrom, Bonobos ... This manifesto is an attempt to return to first principles and reason our way to an alternative: value optimized support.  
 
-## Value --> Attributes --> Values (Principles?) -->
+## Identifying value and principles
 How does support is to bring value to the organization?  We solve customer problems and boost engagement and loyalty.  Maybe more importantly we serve as a communications channel between a product and it's users.  We listen to what they tell us, filter out the noise and make sure the organization hears.  I like to call that signal.
 
 How do we get there?  Let's try to identify a set of values that support the value we are trying to optimize for.
