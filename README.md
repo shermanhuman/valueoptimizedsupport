@@ -18,7 +18,7 @@ As a bit of a thought experiment let's imagine a perfect abstracted support enga
 
 - the user has a problem
 - they describe that problem clearly (guide engagement)
-- support responds in a timeframe the user can accept (~punctuality)
+- support responds in a timeframe the user can accept (responsiveness)
 - customer feels that they have been heard (empathy)
 - the resolution is accepted by the customer (competence)
 - customer feels they can trust communication from the organization (trust)
@@ -26,10 +26,10 @@ As a bit of a thought experiment let's imagine a perfect abstracted support enga
 - customer feels loyalty to the organization (love)
 - actionable information from the engagement is captured, digested and concisely communicated to the organization (signal)
 
-To see an exceptional result like this we need agents who employ positivity, empathy, integrity, competence and punctuality (or perhaps timeliness is a better word).  Let's consider how to build an environment where folks with these traits can thrive, an environment that supports and develops these traits.  I argue that the generally prescribed support best practices actually create an environment antagonistic to these talented folks.
+To see an exceptional result like this we need agents who can employ positivity, empathy, integrity, competence and responsiveness.  Let's consider how to build an environment where folks with these traits can thrive, an environment that supports and develops these traits.  I argue that the generally prescribed support best practices actually create an environment antagonistic to these talented folks.
 
 ### Don't incentivise metrics or govern by SLA
-Metrics are useful signals, but keep in mind they are just that.  They need to be interpreted in context.  
+Metrics are useful signals, but keep in mind they are just that.  They need to be interpreted in context. When abused they can be destructive:
 
 -**Metrics get gamed**: We have all seen metrics as goals lead to perverse incentives.  For example; an agent optimizing for response volume with innapropriate copy pasted responses.  Agents are smart, and will figure out how to manipulate metrics if they think the numbers are the measuring stick.
 - **Metrics are a poor way to compare agents**:  Let's say you have an agent with a ticket volume of 100 and an agent with a ticket volume of 10.  Who is performing better?  You dig in to the actual tickets and find out the low volume agent is tackling harder issues and less likely to force close a ticket until he is sure the customer is satisfied. 
@@ -38,20 +38,22 @@ Metrics are useful signals, but keep in mind they are just that.  They need to b
 - **Incentivized metrics crushes morale pt 1**:  Just because we can create tooling that surveils and algorithmically scores every aspect of employee performance doesn't mean we should do it.  It's a message: "We don't trust you".  If you want to create an environment that fosters trust and empathy you need to employ it in your management practice as well.
 - **Incentivized metrics crushes morale pt 2**:  Ever been held responsible for a number that's out of your control?  Support metrics are often driven by organizational policy, third party vendor failures or other factors they aren't remotely responsible for.  It's very demotivating when you are set up to fail.  
 - **Incentived metrics attack team diversity**:  When you incentivize one very specific thing, you optimize for a certain type of person and disregard folks that don't fit.  Your team will be made up of individuals with various strengths and weaknesses.  
+- **Metrics are less reliable at small sample sizes**:  
 
 ### Top to bottom alignment
-Value optimized support requires buy in at the highest levels of an organization.  By it's very definition it can be more costly than the alternative.  That doesn't make sense unless you quantify and account for support value in your business plan.
+Value optimized support requires buy in at the highest levels of an organization.  By it's very definition it can be more costly than the alternative.  That doesn't make sense unless leadership quantifies and accounts for support value in your business plan.
 
 - **Account for value**:  Make sure your business plan has a per customer value assigned to customer loyalty & engagement.  Signal is harder to quantify, but I have seen situations where support pushing a signal has potentially saved a fortune in legal fees & lost business.  The improvements signal can make to product are even harder to put a number on.  Regardless you can't deny the importance that signal plays in a nimble, customer obsessed organization.  This value should be present in the business plan in some form.
 - **Plan for growth**:  Your business scaling plan should include building out the support team.  Fast response times are required to provide exceptional support.  If you wait for support metrics to make the case for adding headcount you are already too late.  It takes time to hire good folks, and time to train them. *This is probably the more important commitments management needs to make to implement value optimized support, and I've made a pretty weak arguement for it.  Future me: REWRITE!!!*
 - **Hire for values**
 
 ### Boost loyalty and engagement
-A support engagement is a powerful opportunity to turn a negative experience into a net positive.
+A support engagement is a powerful opportunity to turn a negative experience into a net positive. How do we support the following traits:
 
-- Competence
-- Responsiveness
-- Train the support consumer
+- **Empathy and positivity**:
+- **Integrity and transparency**:  
+- **Competence**: The core purpose of support
+- **Responsiveness**:
 
 ### Serve as the signal
 - Bug reports
@@ -109,4 +111,4 @@ Support is a high stress position.  It can be hard to take a step back and build
 - Access to technical resources
 - Offer refunds or coupons at discretion
 ### Positivity
-- Celebrate wins: call out each others successes.
+- Celebrate wins: call out each others successes
