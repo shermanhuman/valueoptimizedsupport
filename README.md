@@ -1,42 +1,50 @@
 # Value Optimized Support
-Support has, traditionally, been an afterthought.  An obligation tacked on to a successful product.  A cost center.  And so the dominant approach to support has been to optimize for cost.  Large enterprise pioneered this approach, tooling has sprung up to support it and it has trickled down to smaller organizations who adopt it without much thought.  After all, you don't go wrong following "best practices".  But it does go wrong.  Horribly, terribly, massively wrong.
+Support has, traditionally, been an afterthought.  An obligation tacked on to a successful product.  A cost center.  And so the dominant approach to support has been to optimize for cost.  Large enterprise pioneered this approach, tooling has sprung up to support it and it has trickled down to smaller organizations who adopt it without much thought.  After all, you can't go wrong following "best practices".  But it does go wrong.  Terribly wrong.
 
-I've seen things you "people" wouldn't believe.  Erm, actually you would believe them.  Because whether you've worked in support or not you've experienced the dehumanizing disfunction of the cost optimized approach to support.  You've hung up on an incompetent agent and redialed the 800 number hoping to get someone good next time.  You've waited on hold to gain access to the rare level two agent who holds the secret knowledge the level ones are not trusted with.  You've worked the system and demanded access to a manager, knowing the lowly front line agents are not empowered to solve your problem.
+Cost-first optimization leads to perverse incentives; support engineers are rewarded for undermining the very value customers might assume they are there to bring.  You probably have personal experience with the dehumanizing disfunction of the cost-first approach to support even if you haven't worked the in the role:
 
-Support has a reputation for being soul crushing work.  Agents are micromanaged incessantly: forced to follow scripts, judged by metrics that are not in their power to control.  They're undermanned and the queue is out of control.  Customers are frustrated and take it out on them.  The brightest and best move on, taking on new roles that present less of a threat to their mental health.  They rarely return as the role is so maligned it can be considered a black mark on your resume.
+- You've hung up on an incompetent agent and redialed the 800 number hoping to get someone good next time.  That organization probably hires agents based on cost, and competence is a happy accident.
 
-It's time to consider if cost optimized support is the approach for your organization.  In a crowded market exceptional service can be a differentiator.  Consider Nordstrom, Bonobos ... This manifesto is an attempt to return to first principles and reason our way to an alternative: value optimized support.  
+- You've worked the system and demanded access to a manager, knowing the lowly front line agents are not empowered to solve your problem. Or perhaps you've waited on hold to gain access to the rare level two agent who holds the secret knowledge the level ones are not trusted with.  This organization also hires on cost and has a strategy of only empowering a few higher performers.  They optimize for cost over respecting their customers time.
 
-## Identifying value and principles
-How does support is to bring value to the organization?  We solve customer problems and boost engagement and loyalty.  Maybe more importantly we serve as a communications channel between a product and it's users.  We listen to what they tell us, filter out the noise and make sure the organization hears.  I like to call that signal.
+- You have had the distinct feeling that the main goal of the person you are working with just wants to close the ticket as soon as possible, regardless of if they solve your problem.  That's the mark of an organization that has delegated management work to metrics, your agent was just working on reducing MTTR (Mean Ticket Resolution Time).
 
-How do we get there?  Let's try to identify a set of values that support the value we are trying to optimize for.
+- A service agent has made a promise to follow up on an issue, but they didn't.  The management at this team may pay lip service to keeping commitments but might actually punish that behaviour when it comes into conflict with cost.
 
-As a bit of a thought experiment let's imagine a perfect abstracted support engagement: 
+It's time to consider if cost-first support is _the_ approach for your organization.  This manifesto is an attempt to return to first principles and reason our way to an alternative: value optimized support.  
 
-- the user has a problem
-- they describe that problem clearly (guide engagement)
-- support responds in a timeframe the user can accept (responsiveness)
-- customer feels that they have been heard (empathy)
-- the resolution is accepted by the customer (competence)
-- customer feels they can trust communication from the organization (trust)
-- customer feels that the organization is competent (respect)
-- customer feels loyalty to the organization (love)
-- actionable information from the engagement is captured, digested and concisely communicated to the organization (signal)
+## Why optimize for value first
+Support is a hard nut to crack.  High performing support organizations are the exception, not the rule.  Sometimes a support team achieves high performance by gently de-prioritizing the metrics they are judged on by management.  The prevalence of disfunction and misalignment is a signal that we need to challenge our basic assumptions.  Starting with the value you want support to bring as a good way to frame the problem.  It's also a good approach if:
 
-To see an exceptional result like this we need agents who can employ positivity, empathy, integrity, competence and responsiveness.  Let's consider how to build an environment where folks with these traits can thrive, an environment that supports and develops these traits.  I argue that the generally prescribed support best practices actually create an environment antagonistic to these talented folks.
+- You value _relationships_. Every support interaction is an inflection point in the relationship with your customer.  An opportunity to showcase your value and build loyalty or to push them towards another organization or solution.
 
-### Don't incentivise metrics or govern by SLA
-Metrics are useful signals, but keep in mind they are just that.  They need to be interpreted in context. When abused they can be destructive:
+_"The web gives people an omnipresent exit door and they won't hesitate to use it."_ - 37signals manifesto
 
--**Metrics get gamed**: We have all seen metrics as goals lead to perverse incentives.  For example; an agent optimizing for response volume with innapropriate copy pasted responses.  Agents are smart, and will figure out how to manipulate metrics if they think the numbers are the measuring stick.
-- **Metrics are a poor way to compare agents**:  Let's say you have an agent with a ticket volume of 100 and an agent with a ticket volume of 10.  Who is performing better?  You dig in to the actual tickets and find out the low volume agent is tackling harder issues and less likely to force close a ticket until he is sure the customer is satisfied. 
-- **Metrics are innacurate signals at small sample sizes**
-- **Metrics are blind**: Metrics miss a good part of the story.  What metric expresses properly executed triage?
-- **Incentivized metrics crushes morale pt 1**:  Just because we can create tooling that surveils and algorithmically scores every aspect of employee performance doesn't mean we should do it.  It's a message: "We don't trust you".  If you want to create an environment that fosters trust and empathy you need to employ it in your management practice as well.
-- **Incentivized metrics crushes morale pt 2**:  Ever been held responsible for a number that's out of your control?  Support metrics are often driven by organizational policy, third party vendor failures or other factors they aren't remotely responsible for.  It's very demotivating when you are set up to fail.  
-- **Incentived metrics attack team diversity**:  When you incentivize one very specific thing, you optimize for a certain type of person and disregard folks that don't fit.  Your team will be made up of individuals with various strengths and weaknesses.  
-- **Metrics are less reliable at small sample sizes**:  
+- You value _reputation_.  Support is often the face of your organization after a sale.  There is no guarantee that a support interaction remains a one on one communication.  On social media that interaction can suddenly become a one to many interaction with broad impact.
+
+- You value the _resources_ spent on support.  It's important to note that value driven support does not mean abandoning efficiency and cost.  It's just that you organize efficiency and cost around value.  If support does not achieve it's core mission then the resources poured into support (no matter how efficiently) are wasted.
+
+- You value _alignment_.  Making the value support brings explicit allows for better top to bottom alignment.  Value and scale can be planned and budgeted for.  The folks in the trenches will not have to read between the lines or have to assume what the mission is.
+
+## Identifying value
+What value does support bring to your organization?  It depends of course, but I can identify a few that apply to many:
+
+- Solve customer problems
+- Listen to your customers
+    - Identify customer service recovery opportunities
+    - Bring signal to the organization.
+- Scale
+    - Google/Gmail approach
+- Reputation
+- Relationship
+
+Keep it simple.  Identify your core values, if you pick contradictory or conflicting values make sure you express the nuance of your strategy explicitly.
+
+## Strategy
+
+### Don't be afraid to add breadth to the mission
+
+### Challenge every incentive and metric rigorously 
 
 ### Top to bottom alignment
 Value optimized support requires buy in at the highest levels of an organization.  By it's very definition it can be more costly than the alternative.  That doesn't make sense unless leadership quantifies and accounts for support value in your business plan.
@@ -44,69 +52,3 @@ Value optimized support requires buy in at the highest levels of an organization
 - **Account for value**:  Make sure your business plan has a per customer value assigned to customer loyalty & engagement.  Signal is harder to quantify, but I have seen situations where support pushing a signal has potentially saved a fortune in legal fees & lost business.  The improvements signal can make to product are even harder to put a number on.  Regardless you can't deny the importance that signal plays in a nimble, customer obsessed organization.  This value should be present in the business plan in some form.
 - **Plan for growth**:  Your business scaling plan should include building out the support team.  Fast response times are required to provide exceptional support.  If you wait for support metrics to make the case for adding headcount you are already too late.  It takes time to hire good folks, and time to train them. *This is probably the more important commitments management needs to make to implement value optimized support, and I've made a pretty weak arguement for it.  Future me: REWRITE!!!*
 - **Hire for values**
-
-### Boost loyalty and engagement
-A support engagement is a powerful opportunity to turn a negative experience into a net positive. How do we support the following traits:
-
-- **Empathy and positivity**:
-- **Integrity and transparency**:  
-- **Competence**: The core purpose of support
-- **Responsiveness**:
-
-### Serve as the signal
-- Bug reports
-- Champion feature requests
-- Identify customer sentiment
-- Support at the decision making table
-
-## Communicate with transparency and integrity
-Transparency and integrity aren't just some do gooderish ideals, they provide solid business value.  Trust is an asset.  A customer is more likely to stick with you after a crisis if they believe you will do right by them in the end.  Reputation matters.
-
-### Honest communication
-Building trust facilitates a support engagement, the customer is more willing to invest time into communicating on a ticket when they believe what you say.
- 
-- **Don’t make promises you can’t keep**: Be careful with commitments.  If you promise a follow up put it on your calendar.  
-- **Tell them what they don't want to hear**: When the news isn't good, tear the band-aid off ... as gently as possible.
-- **Admit mistakes**: Use discretion in regards to the details you share, but admit it when a fault has been made and follow up with a plan to make it right.  If your plan involves other folks talk to them before making a commitment.  Focus on the problem not who is at fault.
-
-### No silos
-- No support tiers
-- Open communication
-- Open inboxes
-- Try to use open channels and avoid DMs
-
-## Practice positivity and empathy 
-Support is a high stress position.  It can be hard to take a step back and build a mental model of the folks you interact with but it pays dividends.  Indicate that you understand someones point of view and it shows you are engaged and working towards the same goal.  They usually reciprocate.
-
-### For end users / customers
-
-- **Pay attention / "listen"**
-- **Consider why a customer is acting out**:  Customers are usually frustrated to some degree when they engage support.  It's important to acknowledge and empathize with them.
-- **Genuine human communication**
-- **Beware scripts and copy pasta**
-- **Don't badmouth the customers**: As a general rule.  It's OK to have a bit of a laugh at a ticket, but don't cross the line into gossip or bullying.  Don't lose your empathy for the human being on the other side of that ticket.  Even if you think they can't hear you, it spills over.
-- **Surprise and delight**
-
-### For team
-**Support engineers**
-- No managing by metrics
-- Constant positive reinforcement
-
-**Software engineers**
-- Understand the software development process
-- Respect valuable time
-
-## Autonomy with social responsibility
-### Be bold
-- Break the rules sometimes
-### Work in small pods (or leaderless teams)
-### Cross functional support team
-- Product / Project managers on support rotation
-- Support / Ops
-- Support / Documentation
-- Support / Software engineering
-### Empowerment
-- Access to technical resources
-- Offer refunds or coupons at discretion
-### Positivity
-- Celebrate wins: call out each others successes
