@@ -1,8 +1,6 @@
 # Value Optimized Support
 Support has, traditionally, been an afterthought.  An obligation tacked on to a successful product.  A cost center.  And so the dominant approach to support has been to optimize for cost.  Large enterprise pioneered this approach, tooling has sprung up to support it and it has trickled down to smaller organizations who adopt it without much thought.  After all, you don't go wrong following "best practices".  But it does go wrong.  Horribly, terribly, massively wrong.
 
-<img src="https://raw.githubusercontent.com/shermanhuman/valueoptimizedsupport/main/img/c-beams.jpg">
-
 I've seen things you "people" wouldn't believe.  Erm, actually you would believe them.  Because whether you've worked in support or not you've experienced the dehumanizing disfunction of the cost optimized approach to support.  You've hung up on an incompetent agent and redialed the 800 number hoping to get someone good next time.  You've waited on hold to gain access to the rare level two agent who holds the secret knowledge the level ones are not trusted with.  You've worked the system and demanded access to a manager, knowing the lowly front line agents are not empowered to solve your problem.
 
 Support has a reputation for being soul crushing work.  Agents are micromanaged incessantly: forced to follow scripts, judged by metrics that are not in their power to control.  They're undermanned and the queue is out of control.  Customers are frustrated and take it out on them.  The brightest and best move on, taking on new roles that present less of a threat to their mental health.  They rarely return as the role is so maligned it can be considered a black mark on your resume.
