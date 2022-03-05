@@ -16,15 +16,15 @@ It's time to consider if cost-first support is _the_ approach for your organizat
 ## Why optimize for value first
 Support is a hard nut to crack.  High performing support organizations are the exception, not the rule.  Sometimes a support team achieves high performance by gently de-prioritizing the metrics they are judged on by management.  The prevalence of disfunction and misalignment is a signal that we need to challenge our basic assumptions.  Starting with the value you want support to bring as a good way to frame the problem.  It's also a good approach if:
 
-- You value _relationships_. Every support interaction is an inflection point in the relationship with your customer.  An opportunity to showcase your value and build loyalty or to push them towards another organization or solution.
+- You respect _relationships_. Every support interaction is an inflection point in the relationship with your customer.  An opportunity to showcase your value and build loyalty or to push them towards another organization or solution.
 
 _"The web gives people an omnipresent exit door and they won't hesitate to use it."_ - 37signals manifesto
 
-- You value _reputation_.  Support is often the face of your organization after a sale.  There is no guarantee that a support interaction remains a one on one communication.  On social media that interaction can suddenly become a one to many interaction with broad impact.
+- You prize _reputation_.  Support is often the face of your organization after a sale.  There is no guarantee that a support interaction remains a one on one communication.  On social media that interaction can suddenly become a one to many interaction with broad impact.
 
 - You value the _resources_ spent on support.  It's important to note that value driven support does not mean abandoning efficiency and cost.  It's just that you organize efficiency and cost around value.  If support does not achieve it's core mission then the resources poured into support (no matter how efficiently) are wasted.
 
-- You value _alignment_.  Making the value support brings explicit allows for better top to bottom alignment.  Value and scale can be planned and budgeted for.  The folks in the trenches will not have to read between the lines or have to assume what the mission is.
+- You strive for _alignment_.  Making the value support brings explicit allows for better top to bottom alignment.  Value and scale can be planned and budgeted for.  The folks in the trenches will not have to read between the lines or have to assume what the mission is.
 
 ## Identifying value
 What value does support bring to your organization?  It depends of course, but I can identify a few that apply to many:
