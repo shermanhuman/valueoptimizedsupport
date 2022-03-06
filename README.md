@@ -27,24 +27,36 @@ _"The web gives people an omnipresent exit door and they won't hesitate to use i
 - You strive for _alignment_.  Making the value support brings explicit allows for better top to bottom alignment.  Value and scale can be planned and budgeted for.  The folks in the trenches will not have to read between the lines or have to assume what the mission is.
 
 ## Identifying value
-What value does support bring to your organization?  It depends of course, but I can identify a few that apply to many:
+What value does support bring?  It's not going to be the same for every organization.  Take the time to identify the value you want your support organization to provide before you start working on strategy.  Make it explicit.  Define scope and the target audience.  Every organization will differ but here are a few example values:
 
-- Solve customer problems
-- Listen to your customers
+### Solve problems the customer brings you
+This is the definitive and probably universal support value.  Think about the value these interactions and what effect they have on the organization.  Can you explicitly describe the value?  Is it retention?  What is that worth precisely?  What is the cost of not providing this service, or doing it badly? 
+    - Reputation
+    - Relationship
+    
+### Listen to your customers
+Your customers are always telling you things; about your product and the organization.  Do you discard these valuable signals?  What signal is important to you?  Try to quantify it, as best you can.
+
     - Identify customer service recovery opportunities
-    - Bring signal to the organization.
-- Scale
-    - Google/Gmail approach
-- Reputation
-- Relationship
+    - Bring signal to the organization
+    - Identify potential existential threats to the organization
 
 Keep it simple.  Identify your core values, if you pick contradictory or conflicting values make sure you express the nuance of your strategy explicitly.
 
 ## Strategy
 
+### Scale
+If your strategy cannot execute and the scale you operate at then it's just an academic excerise.
+    - Google/Gmail approach
+
+
+### Elevate support
+
 ### Don't be afraid to add breadth to the mission
 
 ### Challenge every incentive and metric rigorously 
+
+### Tear down silos
 
 ### Top to bottom alignment
 Value optimized support requires buy in at the highest levels of an organization.  By it's very definition it can be more costly than the alternative.  That doesn't make sense unless leadership quantifies and accounts for support value in your business plan.
