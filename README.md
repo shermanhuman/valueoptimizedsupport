@@ -33,7 +33,7 @@ What value does support bring?  It's not going to be the same for every organiza
 This is the definitive and probably universal support value.  Think about the value these interactions and what effect they have on the organization.  Can you explicitly describe the value?  Is it retention?  What is that worth precisely?  What is the cost of not providing this service, or doing it badly? 
     - Reputation
     - Relationship
-    
+
 ### Listen to your customers
 Your customers are always telling you things; about your product and the organization.  Do you discard these valuable signals?  What signal is important to you?  Try to quantify it, as best you can.
 
@@ -59,8 +59,8 @@ If your strategy cannot execute and the scale you operate at then it's just an a
 ### Tear down silos
 
 ### Top to bottom alignment
-Value optimized support requires buy in at the highest levels of an organization.  By it's very definition it can be more costly than the alternative.  That doesn't make sense unless leadership quantifies and accounts for support value in your business plan.
+Value optimized support requires buy in at the highest levels of an organization.  Leadership quantifies and accounts for support value in your business plan.
 
 - **Account for value**:  Make sure your business plan has a per customer value assigned to customer loyalty & engagement.  Signal is harder to quantify, but I have seen situations where support pushing a signal has potentially saved a fortune in legal fees & lost business.  The improvements signal can make to product are even harder to put a number on.  Regardless you can't deny the importance that signal plays in a nimble, customer obsessed organization.  This value should be present in the business plan in some form.
-- **Plan for growth**:  Your business scaling plan should include building out the support team.  Fast response times are required to provide exceptional support.  If you wait for support metrics to make the case for adding headcount you are already too late.  It takes time to hire good folks, and time to train them. *This is probably the more important commitments management needs to make to implement value optimized support, and I've made a pretty weak arguement for it.  Future me: REWRITE!!!*
-- **Hire for values**
+- **Plan for growth**:  Your business scaling plan should include building out the support team.  Fast response times are required to provide exceptional support.  If you wait for support metrics to make the case for adding headcount you are already too late.  It takes time to hire good folks, and time to train them. 
+- **Hire/fire for value**:  
