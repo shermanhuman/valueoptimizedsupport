@@ -43,13 +43,16 @@ Your customers are always telling you things; about your product and the organiz
 
 Keep it simple.  Identify your core values, if you pick contradictory or conflicting values make sure you express the nuance of your strategy explicitly.
 
+## Strategy
+
 ## Don't be afraid of commitment
 At some support organizations avoiding commitment is the rule.  Usually the agent making the commitment isn't empowered to actually follow up on them.  This can be pretty frustrating as a user looking for a solution and getting evasive non-commital replies.  Support should be empowered to make reasonable commitments.  As a corollary, commitments must be kept and followed up on rigorously.  Keeping commitments builds trust and is essential to value optimized support.
 
-## Strategy
+## Reduce support friction
+Don't ask the user to do support work; they shouldn't have to categorize their request before submitting a query.  No heirarchical dropdown mazes!  No they don't want to do a survey afterwards.  Collect feedback unintrusively and keep it optional. 
 
 ### Scale
-If your strategy cannot execute and the scale you operate at then it's just an academic excerise.
+If your strategy cannot execute at the scale you operate at then it's just an academic excerise.
     - Google/Gmail approach
 
 
